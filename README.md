@@ -25,11 +25,7 @@ I’m a **Data Science & AI enthusiast** currently pursuing an **Applied MSc in 
 
 ### 🌱 **Soil Moisture Prediction**  
 - 🚀 Engineered **ML models (LSTM, Random Forest, XGBoost)** achieving **R² = 0.98**.  
-- 🔍 Applied **Time Series Forecasting** to optimize agricultural planning.  
-
-### 🏥 **MRI Brain Tumor Detection**  
-- 🏥 Built a **CNN model using TensorFlow** to classify brain tumors.  
-- 📌 Achieved high accuracy in **medical image classification**.  
+- 🔍 Applied **Time Series Forecasting** to optimize agricultural planning.   
 
 ## 📚 Currently Learning  
 🔹 **MLOps & Model Deployment** (FastAPI, Docker, Kubernetes)  
