@@ -33,7 +33,7 @@ I’m a **Data Science & AI enthusiast** currently pursuing an **Applied MSc in 
 🔹 **Data Engineering for Scalable AI**  
 
 ## 💼 Looking for Opportunities  
-I’m seeking a **Summer 2025 Internship** in **Data Science, AI, and ML**. Open to **collaborations, research, and real-world projects**!  
+I’m seeking a **6-Month Internship** in **Data Science, AI, and ML**. Open to **collaborations, research, and real-world projects**!  
 
 📫 **Let's Connect:**  
 - 🔗 [LinkedIn](https://linkedin.com/in/nandhakumarcr)  
